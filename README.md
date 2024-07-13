@@ -5,5 +5,5 @@ Telegram bot on esp32, which draw or remove pixel in coordinates x and y
 ```/set x y```
 Set pixel in coordinates x and y on 
 
-```/clear```
+```/clear x y```
 Clear pixel in coordinates x and y 
